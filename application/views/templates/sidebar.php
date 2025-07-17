@@ -10,7 +10,7 @@
 
                 <!-- Topbar -->
                 <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
-
+                     <a class="navbar-brand" href="#"><img height="100rm" class="d-block w-100" src="<?php echo base_url('assets/img/logo_toko.png') ?>" alt="logo open store"></a>
                     <!-- Sidebar Toggle (Topbar) -->
                     <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
                         <i class="fa fa-bars"></i>

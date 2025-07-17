@@ -8,9 +8,16 @@
 
             <div class="col-xl-5 col-lg-12 col-md-9">
 
+                <div class="row">
+                            <div class="col-lg-12">
+                                <img height="300rm" class="d-block w-100" src="<?php echo base_url('assets/img/logo_toko.png') ?>" alt="logo open store">
+                            </div>
+                         </div>
+
                 <div class="card o-hidden border-0 shadow-lg my-5">
                     <div class="card-body p-0">
                         <!-- Nested Row within Card Body -->
+                         
                         <div class="row">
                             
                             <div class="col-lg-12">
